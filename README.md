@@ -40,6 +40,7 @@ Note: I need to use functions such as func.min, func.max, func.avg, and func.cou
 
 * Close out my session.
 #
+
 ## Part 2
 ### Design My Climate App
 After complettion of my initial analysis, I design a Flask API based on the queries that you have just developed.
