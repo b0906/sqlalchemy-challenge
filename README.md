@@ -9,7 +9,7 @@ In this section, I use Python and SQLAlchemy to perform basic climate analysis a
 * Link Python to the database by creating a SQLAlchemy session.
 
 
-
+#
 
 ### B. Precipitation Analysis
 To perform an analysis of precipitation in the area, I do the following steps:
@@ -22,7 +22,7 @@ To perform an analysis of precipitation in the area, I do the following steps:
 
 
 * Use Pandas to print the summary statistics for the precipitation data.
-
+#
 
 ### C. Station Analysis
 To perform an analysis of stations in the area, I do the following steps:
@@ -39,7 +39,7 @@ Note: I need to use functions such as func.min, func.max, func.avg, and func.cou
 
 
 * Close out my session.
-
+#
 ## Part 2
 ### Design My Climate App
 After complettion of my initial analysis, I design a Flask API based on the queries that you have just developed.
